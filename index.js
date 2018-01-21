@@ -4,5 +4,5 @@ kittens = ["Milo", "Otis", "Garfield"]
 
 var kittens = ["Milo", "Otis", "Garfield"]
 
-kittens.push("Ralph")
-return kittens
+kittens.push("Ralph");
+console.log kittens
