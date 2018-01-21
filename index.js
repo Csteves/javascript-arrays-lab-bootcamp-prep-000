@@ -4,7 +4,6 @@ kittens = ["Milo", "Otis", "Garfield"]
 
 var kittens = ["Milo", "Otis", "Garfield"]
 function destructivelyAppendKitten(kittens, cat) {
-  var kittens = ["Milo", "Otis", "Garfield"]
-kittens.push("Ralph")
+kittens.push("Ralph");
 return kittens
 }
